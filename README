@@ -1,0 +1,12 @@
+To address the toil in ticketing system we could considr using Squadcast to mitigate issues such as recurring obsolete alerts and lack of prioritization. 
+
+The Squadcast Solution could help in the following ways to reduce Toil-
+
+Alert Suppression
+Alert suppression is an automation technique used to reduce alert fatigue. Here, non-critical alerts can be suppressed allowing on-call engineers more time to focus on severe incidents that may cause serious damage to their system or infrastructure.
+
+Contextual Tagging, Routing, and Customized Escalation policies
+Squadcast allows for customized and refined tagging rules which helps to prioritize alerts by attaching severities to each incident. After tagging, each alert can then be routed to a specific user group or escalated to the concerned team, enabling faster response.
+
+Incident Deduplication
+Incident deduplication is a way to weed out those multiple alerts generated for the same incident from different alert sources. The status-based deduplication within the platform goes a step further and facilitates a granular level of control over all alerts that are received from various alert sources. This feature gives that additional control of narrowing down the list of past incidents (based on the status they have) against which deduplication is to be considered. This helps in scenarios with high-failure rate services by accurately diagnosing problems.
