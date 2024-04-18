@@ -1,0 +1,7 @@
+Pod swype-app-6fc7f9f54b-mzlvr restarted 1 times
+Pod swype-app-6fc7f9f54b-mzlvr restarted 2 times
+Pod swype-app-6fc7f9f54b-mzlvr restarted 2 times
+Pod swype-app-6fc7f9f54b-mzlvr restarted 3 times
+Pod swype-app-6fc7f9f54b-mzlvr restarted 3 times
+Pod swype-app-6fc7f9f54b-mzlvr restarted 4 times
+Restart count exceeded for Pod swype-app-6fc7f9f54b-mzlvr. Scaling down the deployment swype-app to zero replicas 
